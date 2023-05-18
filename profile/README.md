@@ -1,0 +1,9 @@
+# Genomic Technologies Group
+
+Welcome to the GitHub repo of the Genomic Technologies Group from the Garvan Institute of Medical Research, Sydney, Australia.
+
+Our work encoumpases many areas of genomics, including...
+
+We run a sequencing service, which you can check out here...
+
+Here are some of our projects on github...
